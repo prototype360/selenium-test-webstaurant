@@ -1,7 +1,12 @@
 
 ### Problem Statement: 
+Maven-based Java project to automate a test case.
 
-JRE-17
+Test case must be runnable on Windows 10.
+
+Written using Selenium for Chrome browser using WebDriverManager.
+
+Project build - JRE-17
 
 ### Pre-requisite: 
 1) Configuration can be controlled from ./src/test/resources/test.properties
@@ -16,15 +21,18 @@ CreateProcess error=5, Access is denied
 
 https://googlechromelabs.github.io/chrome-for-testing/
 
-2) Test is configured to run headless. To make change 
 
 ### Test execution: 
 To execute the test using Maven use the following command
 
 mvn -Dtest=RunTest test
 
+or
+
+mvn clean install
+
 ### Output:
-Output is written to ./src/test/resources/test.log
+Output is written to ./src/test/resources/testRun.log
 
 ### Java Spring template project
 
