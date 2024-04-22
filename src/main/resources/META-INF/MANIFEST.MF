@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: prototype360
+Build-Jdk: 17.0.7
+Package: test.util
+Main-Class: test.util.RunTest
+Created-By: Maven Integration for Eclipse

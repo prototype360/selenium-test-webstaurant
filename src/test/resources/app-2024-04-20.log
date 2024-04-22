@@ -1,0 +1,776 @@
+[INFO ] 2024-04-20 21:22:23.519 [main] RunTest - Test started for WebStaurantStore.
+[INFO ] 2024-04-20 21:23:15.711 [main] RunTest - Search for stainless work table.
+[INFO ] 2024-04-20 21:23:15.812 [main] RunTest - Number of stainless work table items found: 60
+[INFO ] 2024-04-20 21:35:41.850 [main] RunTest - Test started for WebStaurantStore.
+[INFO ] 2024-04-20 21:36:49.930 [main] RunTest - Search for stainless work table.
+[INFO ] 2024-04-20 21:36:50.080 [main] RunTest - Number of stainless work table items found: 60
+[INFO ] 2024-04-20 21:36:50.095 [main] RunTest - Regency 30" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.144 [main] RunTest - Regency 30" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.162 [main] RunTest - Regency 30" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.179 [main] RunTest - Regency 30" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.196 [main] RunTest - Regency 30" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.213 [main] RunTest - Regency 30" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.230 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.248 [main] RunTest - Regency 30" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.265 [main] RunTest - Regency 30" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.281 [main] RunTest - Regency 30" x 96" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.299 [main] RunTest - Regency 30" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.315 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.332 [main] RunTest - Regency 24" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.350 [main] RunTest - Regency 30" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.368 [main] RunTest - Regency 24" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.385 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.407 [main] RunTest - Regency 24" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.427 [main] RunTest - Regency 24" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.446 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.466 [main] RunTest - Regency 18" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.484 [main] RunTest - Regency 24" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.499 [main] RunTest - Regency 24" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.514 [main] RunTest - Regency 30" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.530 [main] RunTest - Regency 18" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.548 [main] RunTest - Regency 30" x 96" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.563 [main] RunTest - Regency 36" x 96" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.581 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.598 [main] RunTest - Regency Spec Line 36" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.613 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.629 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.645 [main] RunTest - Regency 30" x 24" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 21:36:50.662 [main] RunTest - Regency 36" x 72" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.678 [main] RunTest - Regency 24" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.694 [main] RunTest - Regency 24" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.711 [main] RunTest - Regency 18" x 24" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.727 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.744 [main] RunTest - Regency 18" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.761 [main] RunTest - Regency Spec Line 36" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.778 [main] RunTest - Regency 24" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.794 [main] RunTest - Regency 30" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.811 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:50.827 [main] RunTest - Regency 30" x 12" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 21:36:50.845 [main] RunTest - Regency 30" x 18" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 21:36:50.861 [main] RunTest - Regency 30" x 84" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.880 [main] RunTest - Regency 24" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.896 [main] RunTest - Regency 24" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.911 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.926 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:36:50.942 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 21:36:50.958 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 21:36:50.974 [main] RunTest - Regency 36" x 60" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:50.990 [main] RunTest - Regency 30" x 84" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:51.006 [main] RunTest - Regency 30" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:51.022 [main] RunTest - Regency 30" x 84" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:51.038 [main] RunTest - Regency 18" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:51.054 [main] RunTest - Regency 30" x 15" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 21:36:51.070 [main] RunTest - Regency 24" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:36:51.086 [main] RunTest - Regency 36" x 48" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:36:51.102 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 21:36:51.117 [main] RunTest - Regency 24" x 48" 18 Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 21:36:51.125 [main] RunTest - All items returned from search contain the word table
+[INFO ] 2024-04-20 21:45:09.233 [main] RunTest - Test started for WebStaurantStore.
+[INFO ] 2024-04-20 21:46:14.692 [main] RunTest - Search for stainless work table.
+[INFO ] 2024-04-20 21:46:14.785 [main] RunTest - Number of stainless work table items found: 60
+[INFO ] 2024-04-20 21:46:14.800 [main] RunTest - Regency 30" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:14.822 [main] RunTest - Regency 30" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:14.840 [main] RunTest - Regency 30" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:14.857 [main] RunTest - Regency 30" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:14.874 [main] RunTest - Regency 30" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:14.893 [main] RunTest - Regency 30" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:14.926 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:14.947 [main] RunTest - Regency 30" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:14.963 [main] RunTest - Regency 30" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:14.979 [main] RunTest - Regency 30" x 96" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:14.997 [main] RunTest - Regency 30" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.014 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.030 [main] RunTest - Regency 24" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:15.047 [main] RunTest - Regency 30" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:15.064 [main] RunTest - Regency 24" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.082 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.105 [main] RunTest - Regency 24" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:15.123 [main] RunTest - Regency 24" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.144 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:15.163 [main] RunTest - Regency 18" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.180 [main] RunTest - Regency 24" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.199 [main] RunTest - Regency 24" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:15.216 [main] RunTest - Regency 30" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.232 [main] RunTest - Regency 18" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.247 [main] RunTest - Regency 30" x 96" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.262 [main] RunTest - Regency 36" x 96" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.279 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:15.296 [main] RunTest - Regency Spec Line 36" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.312 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.328 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.344 [main] RunTest - Regency 30" x 24" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 21:46:15.361 [main] RunTest - Regency 36" x 72" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.377 [main] RunTest - Regency 24" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.394 [main] RunTest - Regency 24" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.410 [main] RunTest - Regency 18" x 24" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.426 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.442 [main] RunTest - Regency 18" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.457 [main] RunTest - Regency Spec Line 36" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.473 [main] RunTest - Regency 24" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.489 [main] RunTest - Regency 30" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.504 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.520 [main] RunTest - Regency 30" x 12" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 21:46:15.536 [main] RunTest - Regency 30" x 18" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 21:46:15.550 [main] RunTest - Regency 30" x 84" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:15.569 [main] RunTest - Regency 24" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:15.585 [main] RunTest - Regency 24" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.600 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:15.616 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 21:46:15.633 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 21:46:15.649 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 21:46:15.664 [main] RunTest - Regency 36" x 60" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.680 [main] RunTest - Regency 30" x 84" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.695 [main] RunTest - Regency 30" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.711 [main] RunTest - Regency 30" x 84" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.728 [main] RunTest - Regency 18" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.743 [main] RunTest - Regency 30" x 15" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 21:46:15.758 [main] RunTest - Regency 24" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 21:46:15.773 [main] RunTest - Regency 36" x 48" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 21:46:15.793 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 21:46:15.809 [main] RunTest - Regency 24" x 48" 18 Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 21:46:15.817 [main] RunTest - All items returned from search contain the word table
+[INFO ] 2024-04-20 22:09:39.884 [main] RunTest - Test started for WebStaurantStore.
+[INFO ] 2024-04-20 22:11:16.277 [main] RunTest - Search for stainless work table.
+[INFO ] 2024-04-20 22:11:16.364 [main] RunTest - Number of stainless work table items found: 60
+[INFO ] 2024-04-20 22:11:16.380 [main] RunTest - Regency 30" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:16.413 [main] RunTest - Regency 30" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:16.430 [main] RunTest - Regency 30" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:16.447 [main] RunTest - Regency 30" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:16.465 [main] RunTest - Regency 30" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:16.482 [main] RunTest - Regency 30" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:16.501 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:16.519 [main] RunTest - Regency 30" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:16.536 [main] RunTest - Regency 30" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:16.552 [main] RunTest - Regency 30" x 96" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:16.570 [main] RunTest - Regency 30" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:16.587 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:16.603 [main] RunTest - Regency 24" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:16.620 [main] RunTest - Regency 30" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:16.637 [main] RunTest - Regency 24" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:16.656 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:16.674 [main] RunTest - Regency 24" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:16.694 [main] RunTest - Regency 24" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:16.713 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:16.731 [main] RunTest - Regency 18" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:16.750 [main] RunTest - Regency 24" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:16.767 [main] RunTest - Regency 24" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:16.786 [main] RunTest - Regency 30" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:16.801 [main] RunTest - Regency 18" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:16.817 [main] RunTest - Regency 30" x 96" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:16.836 [main] RunTest - Regency 36" x 96" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:16.853 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:16.871 [main] RunTest - Regency Spec Line 36" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:16.888 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:16.905 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:16.922 [main] RunTest - Regency 30" x 24" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:11:16.938 [main] RunTest - Regency 36" x 72" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:16.956 [main] RunTest - Regency 24" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:16.972 [main] RunTest - Regency 24" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:16.989 [main] RunTest - Regency 18" x 24" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:17.006 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:17.023 [main] RunTest - Regency 18" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:17.040 [main] RunTest - Regency Spec Line 36" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:17.056 [main] RunTest - Regency 24" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:17.074 [main] RunTest - Regency 30" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:17.105 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:17.124 [main] RunTest - Regency 30" x 12" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:11:17.146 [main] RunTest - Regency 30" x 18" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:11:17.162 [main] RunTest - Regency 30" x 84" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:17.178 [main] RunTest - Regency 24" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:17.193 [main] RunTest - Regency 24" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:17.210 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:17.227 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:11:17.244 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:11:17.260 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:11:17.276 [main] RunTest - Regency 36" x 60" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:17.293 [main] RunTest - Regency 30" x 84" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:17.311 [main] RunTest - Regency 30" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:17.329 [main] RunTest - Regency 30" x 84" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:17.346 [main] RunTest - Regency 18" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:17.365 [main] RunTest - Regency 30" x 15" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:11:17.382 [main] RunTest - Regency 24" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:11:17.398 [main] RunTest - Regency 36" x 48" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:11:17.414 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:11:17.430 [main] RunTest - Regency 24" x 48" 18 Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:11:17.438 [main] RunTest - All items returned from search contain the word table
+[INFO ] 2024-04-20 22:14:49.116 [main] RunTest - Test started for WebStaurantStore.
+[INFO ] 2024-04-20 22:16:03.958 [main] RunTest - Search for stainless work table.
+[INFO ] 2024-04-20 22:16:04.058 [main] RunTest - Number of stainless work table items found: 60
+[INFO ] 2024-04-20 22:16:04.072 [main] RunTest - Regency 30" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.119 [main] RunTest - Regency 30" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.138 [main] RunTest - Regency 30" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.154 [main] RunTest - Regency 30" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.171 [main] RunTest - Regency 30" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.188 [main] RunTest - Regency 30" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.204 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.221 [main] RunTest - Regency 30" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.239 [main] RunTest - Regency 30" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.255 [main] RunTest - Regency 30" x 96" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.271 [main] RunTest - Regency 30" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.288 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.304 [main] RunTest - Regency 24" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.321 [main] RunTest - Regency 30" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.339 [main] RunTest - Regency 24" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.356 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.378 [main] RunTest - Regency 24" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.398 [main] RunTest - Regency 24" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.415 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.433 [main] RunTest - Regency 18" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.451 [main] RunTest - Regency 24" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.466 [main] RunTest - Regency 24" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.481 [main] RunTest - Regency 30" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.495 [main] RunTest - Regency 18" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.511 [main] RunTest - Regency 30" x 96" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.527 [main] RunTest - Regency 36" x 96" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.543 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.560 [main] RunTest - Regency Spec Line 36" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.577 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.593 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.609 [main] RunTest - Regency 30" x 24" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:16:04.624 [main] RunTest - Regency 36" x 72" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.640 [main] RunTest - Regency 24" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.656 [main] RunTest - Regency 24" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.672 [main] RunTest - Regency 18" x 24" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.689 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.705 [main] RunTest - Regency 18" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.721 [main] RunTest - Regency Spec Line 36" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.738 [main] RunTest - Regency 24" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.754 [main] RunTest - Regency 30" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.770 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.788 [main] RunTest - Regency 30" x 12" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:16:04.804 [main] RunTest - Regency 30" x 18" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:16:04.820 [main] RunTest - Regency 30" x 84" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.835 [main] RunTest - Regency 24" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.851 [main] RunTest - Regency 24" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.866 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.883 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:16:04.898 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:16:04.915 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:16:04.931 [main] RunTest - Regency 36" x 60" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.947 [main] RunTest - Regency 30" x 84" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.962 [main] RunTest - Regency 30" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:04.978 [main] RunTest - Regency 30" x 84" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:04.994 [main] RunTest - Regency 18" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:05.010 [main] RunTest - Regency 30" x 15" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:16:05.026 [main] RunTest - Regency 24" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:16:05.042 [main] RunTest - Regency 36" x 48" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:16:05.057 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:16:05.073 [main] RunTest - Regency 24" x 48" 18 Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:16:05.081 [main] RunTest - All items returned from search contain the word table
+[INFO ] 2024-04-20 22:24:31.360 [main] RunTest - Test started for WebStaurantStore.
+[INFO ] 2024-04-20 22:25:38.805 [main] RunTest - Search for stainless work table.
+[INFO ] 2024-04-20 22:25:38.895 [main] RunTest - Number of stainless work table items found: 60
+[INFO ] 2024-04-20 22:25:38.910 [main] RunTest - Regency 30" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:38.936 [main] RunTest - Regency 30" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:38.954 [main] RunTest - Regency 30" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:38.969 [main] RunTest - Regency 30" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:38.985 [main] RunTest - Regency 30" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:39.000 [main] RunTest - Regency 30" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:39.016 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.032 [main] RunTest - Regency 30" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.048 [main] RunTest - Regency 30" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.063 [main] RunTest - Regency 30" x 96" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:39.078 [main] RunTest - Regency 30" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.093 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.108 [main] RunTest - Regency 24" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:39.124 [main] RunTest - Regency 30" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:39.142 [main] RunTest - Regency 24" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.160 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.177 [main] RunTest - Regency 24" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:39.195 [main] RunTest - Regency 24" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.215 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:39.234 [main] RunTest - Regency 18" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.252 [main] RunTest - Regency 24" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.269 [main] RunTest - Regency 24" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:39.284 [main] RunTest - Regency 30" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.300 [main] RunTest - Regency 18" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.316 [main] RunTest - Regency 30" x 96" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.333 [main] RunTest - Regency 36" x 96" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.351 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:39.367 [main] RunTest - Regency Spec Line 36" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.384 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.398 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.415 [main] RunTest - Regency 30" x 24" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:25:39.432 [main] RunTest - Regency 36" x 72" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.451 [main] RunTest - Regency 24" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.470 [main] RunTest - Regency 24" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.492 [main] RunTest - Regency 18" x 24" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.509 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.527 [main] RunTest - Regency 18" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.544 [main] RunTest - Regency Spec Line 36" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.561 [main] RunTest - Regency 24" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.578 [main] RunTest - Regency 30" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.595 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.610 [main] RunTest - Regency 30" x 12" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:25:39.625 [main] RunTest - Regency 30" x 18" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:25:39.641 [main] RunTest - Regency 30" x 84" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:39.656 [main] RunTest - Regency 24" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:39.672 [main] RunTest - Regency 24" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.687 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:39.701 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:25:39.716 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:25:39.731 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:25:39.746 [main] RunTest - Regency 36" x 60" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.762 [main] RunTest - Regency 30" x 84" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.777 [main] RunTest - Regency 30" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.792 [main] RunTest - Regency 30" x 84" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.808 [main] RunTest - Regency 18" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.826 [main] RunTest - Regency 30" x 15" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:25:39.842 [main] RunTest - Regency 24" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:25:39.858 [main] RunTest - Regency 36" x 48" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:25:39.874 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:25:39.889 [main] RunTest - Regency 24" x 48" 18 Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:25:39.897 [main] RunTest - All items returned from search contain the word table
+[INFO ] 2024-04-20 22:27:12.900 [main] RunTest - Test started for WebStaurantStore.
+[INFO ] 2024-04-20 22:27:31.908 [main] RunTest - Search for stainless work table.
+[INFO ] 2024-04-20 22:27:32.004 [main] RunTest - Number of stainless work table items found: 60
+[INFO ] 2024-04-20 22:27:32.019 [main] RunTest - Regency 30" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.040 [main] RunTest - Regency 30" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.056 [main] RunTest - Regency 30" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.072 [main] RunTest - Regency 30" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.088 [main] RunTest - Regency 30" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.105 [main] RunTest - Regency 30" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.121 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.138 [main] RunTest - Regency 30" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.154 [main] RunTest - Regency 30" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.170 [main] RunTest - Regency 30" x 96" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.186 [main] RunTest - Regency 30" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.204 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.220 [main] RunTest - Regency 24" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.237 [main] RunTest - Regency 30" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.255 [main] RunTest - Regency 24" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.272 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.289 [main] RunTest - Regency 24" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.308 [main] RunTest - Regency 24" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.328 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.345 [main] RunTest - Regency 18" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.362 [main] RunTest - Regency 24" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.379 [main] RunTest - Regency 24" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.394 [main] RunTest - Regency 30" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.410 [main] RunTest - Regency 18" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.425 [main] RunTest - Regency 30" x 96" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.442 [main] RunTest - Regency 36" x 96" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.460 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.476 [main] RunTest - Regency Spec Line 36" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.492 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.508 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.525 [main] RunTest - Regency 30" x 24" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:27:32.541 [main] RunTest - Regency 36" x 72" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.556 [main] RunTest - Regency 24" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.572 [main] RunTest - Regency 24" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.589 [main] RunTest - Regency 18" x 24" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.605 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.621 [main] RunTest - Regency 18" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.639 [main] RunTest - Regency Spec Line 36" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.657 [main] RunTest - Regency 24" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.673 [main] RunTest - Regency 30" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.688 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.705 [main] RunTest - Regency 30" x 12" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:27:32.722 [main] RunTest - Regency 30" x 18" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:27:32.738 [main] RunTest - Regency 30" x 84" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.756 [main] RunTest - Regency 24" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.771 [main] RunTest - Regency 24" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.788 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.805 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:27:32.820 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:27:32.837 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:27:32.854 [main] RunTest - Regency 36" x 60" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.870 [main] RunTest - Regency 30" x 84" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.885 [main] RunTest - Regency 30" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.903 [main] RunTest - Regency 30" x 84" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.920 [main] RunTest - Regency 18" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.937 [main] RunTest - Regency 30" x 15" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:27:32.954 [main] RunTest - Regency 24" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:27:32.970 [main] RunTest - Regency 36" x 48" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:27:32.987 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:27:33.003 [main] RunTest - Regency 24" x 48" 18 Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:27:33.010 [main] RunTest - All items returned from search contain the word table
+[INFO ] 2024-04-20 22:27:35.102 [main] RunTest - Last item found added to cart.
+[INFO ] 2024-04-20 22:34:10.979 [main] RunTest - Test started for WebStaurantStore.
+[INFO ] 2024-04-20 22:35:10.764 [main] RunTest - Search for stainless work table.
+[INFO ] 2024-04-20 22:35:10.853 [main] RunTest - Number of stainless work table items found: 60
+[INFO ] 2024-04-20 22:35:10.891 [main] RunTest - Regency 30" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:10.912 [main] RunTest - Regency 30" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:10.929 [main] RunTest - Regency 30" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:10.944 [main] RunTest - Regency 30" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:10.961 [main] RunTest - Regency 30" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:10.977 [main] RunTest - Regency 30" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:10.993 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.010 [main] RunTest - Regency 30" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.025 [main] RunTest - Regency 30" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.041 [main] RunTest - Regency 30" x 96" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:11.058 [main] RunTest - Regency 30" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.074 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.089 [main] RunTest - Regency 24" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:11.106 [main] RunTest - Regency 30" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:11.122 [main] RunTest - Regency 24" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.139 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.157 [main] RunTest - Regency 24" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:11.175 [main] RunTest - Regency 24" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.192 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:11.210 [main] RunTest - Regency 18" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.228 [main] RunTest - Regency 24" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.244 [main] RunTest - Regency 24" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:11.262 [main] RunTest - Regency 30" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.278 [main] RunTest - Regency 18" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.293 [main] RunTest - Regency 30" x 96" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.309 [main] RunTest - Regency 36" x 96" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.324 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:11.341 [main] RunTest - Regency Spec Line 36" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.356 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.371 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.387 [main] RunTest - Regency 30" x 24" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:35:11.404 [main] RunTest - Regency 36" x 72" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.422 [main] RunTest - Regency 24" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.439 [main] RunTest - Regency 24" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.454 [main] RunTest - Regency 18" x 24" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.471 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.488 [main] RunTest - Regency 18" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.505 [main] RunTest - Regency Spec Line 36" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.520 [main] RunTest - Regency 24" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.537 [main] RunTest - Regency 30" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.553 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.570 [main] RunTest - Regency 30" x 12" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:35:11.588 [main] RunTest - Regency 30" x 18" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:35:11.607 [main] RunTest - Regency 30" x 84" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:11.622 [main] RunTest - Regency 24" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:11.639 [main] RunTest - Regency 24" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.654 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:11.670 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:35:11.686 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:35:11.702 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:35:11.718 [main] RunTest - Regency 36" x 60" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.734 [main] RunTest - Regency 30" x 84" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.750 [main] RunTest - Regency 30" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.766 [main] RunTest - Regency 30" x 84" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.782 [main] RunTest - Regency 18" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.797 [main] RunTest - Regency 30" x 15" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:35:11.813 [main] RunTest - Regency 24" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:35:11.830 [main] RunTest - Regency 36" x 48" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:35:11.848 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:35:11.864 [main] RunTest - Regency 24" x 48" 18 Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:35:11.871 [main] RunTest - All items returned from search contain the word table
+[INFO ] 2024-04-20 22:42:15.038 [main] RunTest - Test started for WebStaurantStore.
+[INFO ] 2024-04-20 22:43:41.868 [main] RunTest - Search for stainless work table.
+[INFO ] 2024-04-20 22:43:41.961 [main] RunTest - Number of stainless work table items found: 60
+[INFO ] 2024-04-20 22:43:41.976 [main] RunTest - Regency 30" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:41.997 [main] RunTest - Regency 30" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.013 [main] RunTest - Regency 30" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.028 [main] RunTest - Regency 30" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.045 [main] RunTest - Regency 30" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.060 [main] RunTest - Regency 30" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.075 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.092 [main] RunTest - Regency 30" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.108 [main] RunTest - Regency 30" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.124 [main] RunTest - Regency 30" x 96" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.141 [main] RunTest - Regency 30" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.156 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.173 [main] RunTest - Regency 24" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.192 [main] RunTest - Regency 30" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.209 [main] RunTest - Regency 24" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.226 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.245 [main] RunTest - Regency 24" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.265 [main] RunTest - Regency 24" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.284 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.303 [main] RunTest - Regency 18" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.321 [main] RunTest - Regency 24" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.337 [main] RunTest - Regency 24" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.352 [main] RunTest - Regency 30" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.366 [main] RunTest - Regency 18" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.381 [main] RunTest - Regency 30" x 96" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.399 [main] RunTest - Regency 36" x 96" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.415 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.432 [main] RunTest - Regency Spec Line 36" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.448 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.479 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.499 [main] RunTest - Regency 30" x 24" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:43:42.515 [main] RunTest - Regency 36" x 72" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.532 [main] RunTest - Regency 24" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.549 [main] RunTest - Regency 24" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.565 [main] RunTest - Regency 18" x 24" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.582 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.599 [main] RunTest - Regency 18" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.616 [main] RunTest - Regency Spec Line 36" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.635 [main] RunTest - Regency 24" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.651 [main] RunTest - Regency 30" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.667 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.685 [main] RunTest - Regency 30" x 12" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:43:42.701 [main] RunTest - Regency 30" x 18" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:43:42.717 [main] RunTest - Regency 30" x 84" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.734 [main] RunTest - Regency 24" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.751 [main] RunTest - Regency 24" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.767 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.784 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:43:42.799 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:43:42.815 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:43:42.831 [main] RunTest - Regency 36" x 60" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.848 [main] RunTest - Regency 30" x 84" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.865 [main] RunTest - Regency 30" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.882 [main] RunTest - Regency 30" x 84" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.899 [main] RunTest - Regency 18" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.916 [main] RunTest - Regency 30" x 15" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:43:42.932 [main] RunTest - Regency 24" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:43:42.949 [main] RunTest - Regency 36" x 48" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:43:42.966 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:43:42.982 [main] RunTest - Regency 24" x 48" 18 Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:43:42.991 [main] RunTest - All items returned from search contain the word table
+[INFO ] 2024-04-20 22:47:07.193 [main] RunTest - Test started for WebStaurantStore.
+[INFO ] 2024-04-20 22:47:23.524 [main] RunTest - Search for stainless work table.
+[INFO ] 2024-04-20 22:47:23.659 [main] RunTest - Number of stainless work table items found: 60
+[INFO ] 2024-04-20 22:47:23.745 [main] RunTest - Regency 30" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:23.951 [main] RunTest - Regency 30" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:24.172 [main] RunTest - Regency 30" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:24.576 [main] RunTest - Regency 30" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:24.782 [main] RunTest - Regency 30" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:24.876 [main] RunTest - Regency 30" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:24.944 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:25.047 [main] RunTest - Regency 30" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:25.145 [main] RunTest - Regency 30" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:25.331 [main] RunTest - Regency 30" x 96" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:25.812 [main] RunTest - Regency 30" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:26.273 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:26.390 [main] RunTest - Regency 24" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:26.497 [main] RunTest - Regency 30" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:26.517 [main] RunTest - Regency 24" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:26.535 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:26.553 [main] RunTest - Regency 24" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:26.572 [main] RunTest - Regency 24" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:26.589 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:26.608 [main] RunTest - Regency 18" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:26.624 [main] RunTest - Regency 24" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:26.639 [main] RunTest - Regency 24" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:26.653 [main] RunTest - Regency 30" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:26.668 [main] RunTest - Regency 18" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:26.683 [main] RunTest - Regency 30" x 96" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:26.697 [main] RunTest - Regency 36" x 96" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:26.714 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:26.729 [main] RunTest - Regency Spec Line 36" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:26.745 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:26.761 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:26.777 [main] RunTest - Regency 30" x 24" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:47:26.793 [main] RunTest - Regency 36" x 72" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:26.809 [main] RunTest - Regency 24" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:26.823 [main] RunTest - Regency 24" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:26.839 [main] RunTest - Regency 18" x 24" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:26.856 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:26.872 [main] RunTest - Regency 18" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:26.888 [main] RunTest - Regency Spec Line 36" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:26.919 [main] RunTest - Regency 24" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:26.935 [main] RunTest - Regency 30" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:26.950 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:26.965 [main] RunTest - Regency 30" x 12" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:47:26.980 [main] RunTest - Regency 30" x 18" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:47:26.996 [main] RunTest - Regency 30" x 84" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:27.011 [main] RunTest - Regency 24" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:27.027 [main] RunTest - Regency 24" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:27.041 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:27.057 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:47:27.074 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:47:27.089 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:47:27.105 [main] RunTest - Regency 36" x 60" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:27.121 [main] RunTest - Regency 30" x 84" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:27.136 [main] RunTest - Regency 30" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:27.151 [main] RunTest - Regency 30" x 84" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:27.166 [main] RunTest - Regency 18" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:27.182 [main] RunTest - Regency 30" x 15" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:47:27.198 [main] RunTest - Regency 24" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:47:27.214 [main] RunTest - Regency 36" x 48" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:47:27.230 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:47:27.247 [main] RunTest - Regency 24" x 48" 18 Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:47:27.255 [main] RunTest - All items returned from search contain the word table
+[INFO ] 2024-04-20 22:47:39.660 [main] RunTest - Last item found added to cart.
+[INFO ] 2024-04-20 22:55:13.880 [main] RunTest - Test started for WebStaurantStore.
+[INFO ] 2024-04-20 22:56:32.277 [main] RunTest - Search for stainless work table.
+[INFO ] 2024-04-20 22:56:32.380 [main] RunTest - Number of stainless work table items found: 60
+[INFO ] 2024-04-20 22:56:32.395 [main] RunTest - Regency 30" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:32.417 [main] RunTest - Regency 30" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:32.435 [main] RunTest - Regency 30" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:32.451 [main] RunTest - Regency 30" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:32.467 [main] RunTest - Regency 30" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:32.483 [main] RunTest - Regency 30" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:32.499 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:32.518 [main] RunTest - Regency 30" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:32.533 [main] RunTest - Regency 30" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:32.549 [main] RunTest - Regency 30" x 96" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:32.567 [main] RunTest - Regency 30" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:32.583 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:32.599 [main] RunTest - Regency 24" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:32.617 [main] RunTest - Regency 30" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:32.636 [main] RunTest - Regency 24" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:32.655 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:32.674 [main] RunTest - Regency 24" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:32.692 [main] RunTest - Regency 24" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:32.712 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:32.730 [main] RunTest - Regency 18" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:32.747 [main] RunTest - Regency 24" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:32.763 [main] RunTest - Regency 24" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:32.778 [main] RunTest - Regency 30" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:32.793 [main] RunTest - Regency 18" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:32.808 [main] RunTest - Regency 30" x 96" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:32.824 [main] RunTest - Regency 36" x 96" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:32.840 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:32.857 [main] RunTest - Regency Spec Line 36" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:32.871 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:32.886 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:32.902 [main] RunTest - Regency 30" x 24" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:56:32.917 [main] RunTest - Regency 36" x 72" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:32.934 [main] RunTest - Regency 24" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:32.950 [main] RunTest - Regency 24" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:32.969 [main] RunTest - Regency 18" x 24" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:32.984 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:33.001 [main] RunTest - Regency 18" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:33.018 [main] RunTest - Regency Spec Line 36" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:33.033 [main] RunTest - Regency 24" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:33.049 [main] RunTest - Regency 30" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:33.080 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:33.098 [main] RunTest - Regency 30" x 12" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:56:33.117 [main] RunTest - Regency 30" x 18" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:56:33.133 [main] RunTest - Regency 30" x 84" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:33.149 [main] RunTest - Regency 24" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:33.165 [main] RunTest - Regency 24" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:33.182 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:33.199 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 22:56:33.215 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:56:33.232 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:56:33.250 [main] RunTest - Regency 36" x 60" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:33.266 [main] RunTest - Regency 30" x 84" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:33.286 [main] RunTest - Regency 30" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:33.303 [main] RunTest - Regency 30" x 84" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:33.322 [main] RunTest - Regency 18" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:33.340 [main] RunTest - Regency 30" x 15" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 22:56:33.356 [main] RunTest - Regency 24" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 22:56:33.373 [main] RunTest - Regency 36" x 48" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 22:56:33.390 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:56:33.406 [main] RunTest - Regency 24" x 48" 18 Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 22:56:33.413 [main] RunTest - All items returned from search contain the word table
+[INFO ] 2024-04-20 22:56:48.426 [main] RunTest - Last item found added to cart.
+[INFO ] 2024-04-20 23:36:06.900 [main] RunTest - Test started for WebStaurantStore.
+[INFO ] 2024-04-20 23:37:19.502 [main] RunTest - Search for stainless work table.
+[INFO ] 2024-04-20 23:37:19.597 [main] RunTest - Number of stainless work table items found: 60
+[INFO ] 2024-04-20 23:37:19.615 [main] RunTest - Regency 30" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:19.635 [main] RunTest - Regency 30" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:19.651 [main] RunTest - Regency 30" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:19.667 [main] RunTest - Regency 30" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:19.682 [main] RunTest - Regency 30" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:19.698 [main] RunTest - Regency 30" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:19.714 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:19.731 [main] RunTest - Regency 30" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:19.747 [main] RunTest - Regency 30" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:19.761 [main] RunTest - Regency 30" x 96" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:19.777 [main] RunTest - Regency 30" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:19.795 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:19.814 [main] RunTest - Regency 24" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:19.831 [main] RunTest - Regency 30" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:19.846 [main] RunTest - Regency 24" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:19.861 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:19.878 [main] RunTest - Regency 24" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:19.894 [main] RunTest - Regency 24" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:19.910 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:19.930 [main] RunTest - Regency 18" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:19.969 [main] RunTest - Regency 24" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:19.986 [main] RunTest - Regency 24" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:20.001 [main] RunTest - Regency 30" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.017 [main] RunTest - Regency 18" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:20.032 [main] RunTest - Regency 30" x 96" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.048 [main] RunTest - Regency 36" x 96" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.064 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:20.093 [main] RunTest - Regency Spec Line 36" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.110 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.125 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.144 [main] RunTest - Regency 30" x 24" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 23:37:20.161 [main] RunTest - Regency 36" x 72" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.176 [main] RunTest - Regency 24" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.191 [main] RunTest - Regency 24" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:20.206 [main] RunTest - Regency 18" x 24" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:20.220 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.236 [main] RunTest - Regency 18" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:20.253 [main] RunTest - Regency Spec Line 36" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.268 [main] RunTest - Regency 24" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.282 [main] RunTest - Regency 30" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:20.297 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:20.315 [main] RunTest - Regency 30" x 12" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 23:37:20.333 [main] RunTest - Regency 30" x 18" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 23:37:20.348 [main] RunTest - Regency 30" x 84" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:20.361 [main] RunTest - Regency 24" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:20.376 [main] RunTest - Regency 24" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.391 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:20.405 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:37:20.419 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 23:37:20.434 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 23:37:20.450 [main] RunTest - Regency 36" x 60" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.465 [main] RunTest - Regency 30" x 84" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.481 [main] RunTest - Regency 30" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.496 [main] RunTest - Regency 30" x 84" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:20.511 [main] RunTest - Regency 18" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:20.528 [main] RunTest - Regency 30" x 15" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 23:37:20.543 [main] RunTest - Regency 24" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:37:20.558 [main] RunTest - Regency 36" x 48" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:37:20.574 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 23:37:20.590 [main] RunTest - Regency 24" x 48" 18 Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 23:37:20.598 [main] RunTest - All items returned from search contain the word table
+[INFO ] 2024-04-20 23:37:36.933 [main] RunTest - Last item found added to cart.
+[INFO ] 2024-04-20 23:41:46.656 [main] RunTest - Test started for WebStaurantStore.
+[INFO ] 2024-04-20 23:42:48.889 [main] RunTest - Search for stainless work table.
+[INFO ] 2024-04-20 23:42:48.990 [main] RunTest - Number of stainless work table items found: 60
+[INFO ] 2024-04-20 23:42:49.004 [main] RunTest - Regency 30" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.025 [main] RunTest - Regency 30" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.042 [main] RunTest - Regency 30" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.058 [main] RunTest - Regency 30" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.073 [main] RunTest - Regency 30" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.090 [main] RunTest - Regency 30" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.107 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.124 [main] RunTest - Regency 30" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.140 [main] RunTest - Regency 30" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.156 [main] RunTest - Regency 30" x 96" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.171 [main] RunTest - Regency 30" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.188 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.204 [main] RunTest - Regency 24" x 48" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.224 [main] RunTest - Regency 30" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.240 [main] RunTest - Regency 24" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.257 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.274 [main] RunTest - Regency 24" x 60" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.292 [main] RunTest - Regency 24" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.311 [main] RunTest - Regency Spec Line 30" x 72" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.329 [main] RunTest - Regency 18" x 72" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.347 [main] RunTest - Regency 24" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.363 [main] RunTest - Regency 24" x 72" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.379 [main] RunTest - Regency 30" x 48" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.395 [main] RunTest - Regency 18" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.410 [main] RunTest - Regency 30" x 96" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.427 [main] RunTest - Regency 36" x 96" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.443 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.459 [main] RunTest - Regency Spec Line 36" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.475 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.490 [main] RunTest - Regency Spec Line 30" x 60" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.508 [main] RunTest - Regency 30" x 24" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 23:42:49.523 [main] RunTest - Regency 36" x 72" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.539 [main] RunTest - Regency 24" x 72" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.609 [main] RunTest - Regency 24" x 60" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.623 [main] RunTest - Regency 18" x 24" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.638 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.654 [main] RunTest - Regency 18" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.671 [main] RunTest - Regency Spec Line 36" x 72" 14 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.701 [main] RunTest - Regency 24" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.717 [main] RunTest - Regency 30" x 36" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.732 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.747 [main] RunTest - Regency 30" x 12" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 23:42:49.765 [main] RunTest - Regency 30" x 18" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 23:42:49.780 [main] RunTest - Regency 30" x 84" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.796 [main] RunTest - Regency 24" x 36" 16-Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.812 [main] RunTest - Regency 24" x 60" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.827 [main] RunTest - Regency Spec Line 30" x 96" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.842 [main] RunTest - Regency Spec Line 30" x 48" 14 Gauge Stainless Steel Commercial Work Table with 4" Backsplash and Undershelf
+[INFO ] 2024-04-20 23:42:49.858 [main] RunTest - Regency 24" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 23:42:49.876 [main] RunTest - Regency 18" x 48" 18-Gauge 304 Stainless Steel Commercial Work Table with 4" Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 23:42:49.893 [main] RunTest - Regency 36" x 60" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.909 [main] RunTest - Regency 30" x 84" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.926 [main] RunTest - Regency 30" x 36" 16-Gauge 304 Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:49.941 [main] RunTest - Regency 30" x 84" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.960 [main] RunTest - Regency 18" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:49.977 [main] RunTest - Regency 30" x 15" 18-Gauge 304 Stainless Steel Equipment Filler Table with Backsplash and Galvanized Undershelf
+[INFO ] 2024-04-20 23:42:49.992 [main] RunTest - Regency 24" x 96" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf
+[INFO ] 2024-04-20 23:42:50.007 [main] RunTest - Regency 36" x 48" 16 Gauge Stainless Steel Commercial Work Table with Undershelf
+[INFO ] 2024-04-20 23:42:50.022 [main] RunTest - Regency 24" x 30" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 23:42:50.037 [main] RunTest - Regency 24" x 48" 18 Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs, Undershelf, and Casters
+[INFO ] 2024-04-20 23:42:50.045 [main] RunTest - All items returned from search contain the word table
+[INFO ] 2024-04-20 23:43:05.657 [main] RunTest - Last item found added to cart.
