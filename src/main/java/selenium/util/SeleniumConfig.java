@@ -42,7 +42,7 @@ public class SeleniumConfig {
         tcOptions.put("project", "selenium-test");
         tcOptions.put("w3c", true);
         if(isHeadless) {
-        	browserOptions.addArguments("--headless");
+        	browserOptions.addArguments("--headless=new");
         }
         tcOptions.put("build", "Demonstration: selenium-test with WebDriverManager");
         browserOptions.setCapability("Test Case:Options", tcOptions);

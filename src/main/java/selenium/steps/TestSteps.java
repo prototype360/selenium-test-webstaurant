@@ -46,6 +46,7 @@ public class TestSteps extends SeleniumConfig {
 		return driver.findElement(By.xpath(xpath)).isDisplayed();
 	}
 	
+	//provide xpath to wait for a message to not be displayed
 	public boolean waitForMessageToClear(String xpath) {
 		wait.until(d->driver.findElements(By.xpath(xpath)).isEmpty()==true);
 		return true;
